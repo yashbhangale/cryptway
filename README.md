@@ -3,9 +3,10 @@
 
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/68957369/183153583-2082f9f7-d2bc-46c2-8577-61ba6e004eaf.png)
-#npm install
-#npm run dev
-
+'''shell
+npm install
+npm run dev
+'''
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
