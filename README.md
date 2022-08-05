@@ -3,8 +3,8 @@
 
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/68957369/183153583-2082f9f7-d2bc-46c2-8577-61ba6e004eaf.png)
-npm install
-npm run dev
+#npm install
+#npm run dev
 
 # Basic Sample Hardhat Project
 
