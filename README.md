@@ -24,3 +24,9 @@ npx hardhat help
 #� �c�r�y�p�t�w�a�y�
 �
 �
+
+
+
+
+learned from javascript mastry
+https://www.youtube.com/c/JavaScriptMastery
